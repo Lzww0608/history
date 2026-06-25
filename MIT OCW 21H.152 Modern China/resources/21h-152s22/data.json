@@ -1,0 +1,31 @@
+{
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/21h-152-modern-china-spring-2022/21h-152s22.jpg",
+  "file_size": 12011,
+  "file_type": "image/jpeg",
+  "image_metadata": {
+    "caption": "A sculpture stands in front of Chairman Mao Memorial Hall, the final resting place of Mao Zedong, the Chairman of the Chinese Communist Party from 1945 to 1976. (Image courtesy of {{% resource_link \"91fd62e9-43ac-47aa-b6fb-fd699467eecb\" \"Isriya Paireepairit\" %}} on Flickr. License CC BY-NC).",
+    "credit": "",
+    "image-alt": "A statue featuring three men and one woman in battle garb sits in front of a modern, two-level building."
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "resourcetype": "Image",
+  "title": "21H-152s22.jpg",
+  "uid": "aaa4693f-6e3e-4922-bf12-9d7a9b3d63fb",
+  "video_files": {
+    "video_captions_file": "",
+    "video_thumbnail_file": "",
+    "video_transcript_file": ""
+  },
+  "video_metadata": {
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}
