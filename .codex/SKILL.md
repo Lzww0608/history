@@ -1,5 +1,17 @@
 # Highest-Priority Rule: Codex Is the Translator
 
+## Automatic Companion Translation Skill
+
+For all Codex work in this project, also treat the following skill as automatically invoked:
+
+```text
+[$translate-political-economy-zh](/Users/lzww/.agents/skills/translate-political-economy-zh/SKILL.md)
+```
+
+Before translating, revising, OCR-cleaning, or preparing bilingual academic material, read `/Users/lzww/.agents/skills/translate-political-economy-zh/SKILL.md` completely and follow its reference-loading rules. Use it for translation quality, terminology consistency, scholarly Simplified Chinese style, vocabulary-table behavior, and audit discipline.
+
+If that skill asks for persistent artifacts that conflict with this project's single-output rule, keep this file's artifact rules: one final bilingual Markdown file per PDF and no persistent auxiliary files.
+
 For this project, Codex itself is the translation engine.
 
 Codex may use local command-line tools only for:
