@@ -319,6 +319,14 @@ Do not create a separate progress file.
    - rebel → 造反派 / 反叛者，按语境选择
    - Red Guards → 红卫兵
 
+   ## Contextual Political Identity
+
+   Do not translate political identity labels such as `sympathizers`, `supporters`, `activists`, `comrades`, `cadres`, `party men`, `Nationalists`, or `Communists` in isolation. Resolve them against the surrounding event, organization, and historical context, and determine whether they denote formal party members, affiliated activists, a broader supporting constituency, or an umbrella category.
+
+   Avoid dictionary calques that sound unnatural or obscure organizational identity. In particular, do not mechanically translate `CCP sympathizers` as `中共同情者`.
+
+   For this book's sentence `the slaughter of the CCP sympathizers in Shanghai in April 1927`, use `1927年4月上海对中共党员的屠杀`. If a later passage explicitly distinguishes non-member supporters from formal party members, preserve that distinction with `中共党员及其支持者` or `中共支持者` as the context requires.
+
    ## Academic Translation Style
 
    Use formal academic Chinese.
@@ -363,8 +371,9 @@ Do not create a separate progress file.
    5. Citations and footnotes are preserved where extractable.
    6. Numbers, years, names, places, and institutions are preserved.
    7. Terminology is consistent.
-   8. No visible glossary, QA report, progress report, or translation report is appended.
-   9. The only persistent output file is `output/<book-name>.bilingual.md`.
+   8. Political identity labels preserve the organizational status established by the local historical context and avoid dictionary calques such as `中共同情者`.
+   9. No visible glossary, QA report, progress report, or translation report is appended.
+   10. The only persistent output file is `output/<book-name>.bilingual.md`.
 
    Do not write this checklist into the final Markdown file.
 
