@@ -327,6 +327,16 @@ Do not create a separate progress file.
 
    For this book's sentence `the slaughter of the CCP sympathizers in Shanghai in April 1927`, use `1927年4月上海对中共党员的屠杀`. If a later passage explicitly distinguishes non-member supporters from formal party members, preserve that distinction with `中共党员及其支持者` or `中共支持者` as the context requires.
 
+   ## Event Endpoints and `culminate`
+
+   Do not mechanically translate `culminate in/with` as `达到高潮`. First determine whether the source describes a genuine peak in intensity or the endpoint of an institutional process. Use `达到高潮 / 顶峰` only for a literal peak.
+
+   When a reorganization, negotiation, reform, campaign, or sequence culminates in a congress, treaty, law, appointment, or comparable terminal event, restore the actor and terminal action in Chinese. Prefer the structure `[背景或支持条件] + [行动者]于[日期]召开 / 通过 / 签署 / 成立…… + 完成 / 结束 / 落实了[事项]`. State that the process was completed only when the source or surrounding history supports that conclusion; otherwise use `最终促成` or `最终落实为`.
+
+   For `With Sun Yat-sen's willing support, the reorganization culminated in January 1924 with the First National Congress of the GMD`, use `在孙中山的积极支持下，国民党于1924年1月召开第一次全国代表大会，完成了此次改组`.
+
+   A draft such as `改组工作达到高潮，其标志是……的召开` is unfinished. It preserves the English nominal structure, hides the actor and action, and misreads an institutional endpoint as an emotional or dramatic peak.
+
    ## Academic Translation Style
 
    Use formal academic Chinese.
@@ -372,8 +382,9 @@ Do not create a separate progress file.
    6. Numbers, years, names, places, and institutions are preserved.
    7. Terminology is consistent.
    8. Political identity labels preserve the organizational status established by the local historical context and avoid dictionary calques such as `中共同情者`.
-   9. No visible glossary, QA report, progress report, or translation report is appended.
-   10. The only persistent output file is `output/<book-name>.bilingual.md`.
+   9. Every `culminate in/with` construction has been checked to distinguish a literal peak from an institutional endpoint; congresses, treaties, laws, and appointments are expressed through their actors and actions rather than `达到高潮，其标志是……`.
+   10. No visible glossary, QA report, progress report, or translation report is appended.
+   11. The only persistent output file is `output/<book-name>.bilingual.md`.
 
    Do not write this checklist into the final Markdown file.
 
