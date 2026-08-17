@@ -341,6 +341,8 @@ Do not create a separate progress file.
 
    Use formal academic Chinese.
 
+   Do not use em dashes or Chinese dash marks (`—` or `——`) in the Chinese translation. Render source-text parenthetical insertions, appositives, and supplementary remarks with full-width Chinese parentheses (`（……）`). If a source dash marks a turn, consequence, or explanation rather than an insertion, reconstruct or split the sentence while still avoiding dash marks in the Chinese output.
+
    Preserve:
 
    - Authorial argument
@@ -383,8 +385,9 @@ Do not create a separate progress file.
    7. Terminology is consistent.
    8. Political identity labels preserve the organizational status established by the local historical context and avoid dictionary calques such as `中共同情者`.
    9. Every `culminate in/with` construction has been checked to distinguish a literal peak from an institutional endpoint; congresses, treaties, laws, and appointments are expressed through their actors and actions rather than `达到高潮，其标志是……`.
-   10. No visible glossary, QA report, progress report, or translation report is appended.
-   11. The only persistent output file is `output/<book-name>.bilingual.md`.
+   10. The Chinese translation contains no em dash or Chinese dash mark (`—` or `——`); source-text dash insertions have been rendered with full-width Chinese parentheses (`（……）`), and non-parenthetical dash relations have been recast without dash marks.
+   11. No visible glossary, QA report, progress report, or translation report is appended.
+   12. The only persistent output file is `output/<book-name>.bilingual.md`.
 
    Do not write this checklist into the final Markdown file.
 
